@@ -131,3 +131,13 @@ img{
         color: rgb(78, 77, 77);
     }
 }
+
+.footer{
+    margin-top: 60px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.footer .foot{
+    font-size: 0.71rem;
+}
